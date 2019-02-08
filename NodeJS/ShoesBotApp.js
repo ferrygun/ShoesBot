@@ -351,7 +351,7 @@ app.post('/webhook/', function(req, res) {
 							let image_url = result.result.img_path[k];
 							image_url = image_url.split('\\')[1];
 
-							image_url = 'https://fd-p528034trial.dispatcher.hanatrial.ondemand.com/img/' + image_url;
+							image_url = 'https://xxxxtrial.dispatcher.hanatrial.ondemand.com/img/' + image_url;
 							console.log(image_url);
 
 							ArrayData.push({
