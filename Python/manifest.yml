@@ -1,0 +1,8 @@
+---
+applications:
+- name: image_similarity_tf
+  host: image_similarity_tf
+  memory: 3000M
+  disk_quota: 4096M
+  timeout: 60
+  buildpack: python_buildpack
