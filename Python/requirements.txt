@@ -4,7 +4,7 @@ Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.8
 numpy==1.16.0
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.1.1.26
 Pillow==5.4.1
 requests==2.21.0
 scikit-image==0.14.2
